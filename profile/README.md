@@ -5,8 +5,12 @@
   <p><em>Innovating solutions through collaboration and creativity.</em></p>
 
   <p>
-    <a href="https://github.com/orgs/WeAreNotDev/discussions"><strong>Community Discussions</strong></a> ·
-    <a href="/"><strong>Official Website</strong></a> ·
-    <a href="/"><strong>Support</strong></a>
+    <a href="https://github.com/orgs/WeAreNotDev/discussions">
+      <strong>Community Discussions</strong>
+    </a>・<a href="/">
+      <strong>Official Website</strong>
+    </a>・<a href="/">
+      <strong>Support</strong>
+    </a>
   </p>
 </div>
